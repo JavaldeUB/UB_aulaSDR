@@ -31,7 +31,7 @@ http://www.mathworks.com/help/supportpkg/rtlsdrradio/ug/support-package-hardware
 2. In toolbar (up right), click in **Add-Ons**.  
 3. Select **Get Hardware Support Packages**.
 
-![Abrir Add-Ons en MATLAB](./images/step1_addons.png)
+![Open Add-Ons in MATLAB](./images/step1_addons.png)
 
 ---
 
@@ -41,7 +41,7 @@ http://www.mathworks.com/help/supportpkg/rtlsdrradio/ug/support-package-hardware
 2. Selecciona **Communication Toolbox Support Package for RTL-SDR Radio**.  
 3. Click **Install** in the following Window.
 
-![Buscar RTL-SDR](./images/step2_search.png)
+![Search for RTL-SDR](./images/step2_search.png)
 
 ---
 
