@@ -11,7 +11,7 @@ Before starting anything, be sure you have:
 - ✅ an RTL-SDR: in our case the nooelec NESDR Mini 2+
 - ✅ a computer running unde Windows 10 or higher
 - ✅ a Mathworks account 
-- ✅ MATLAB R2021b or higher (this guide has been developed with MATLAB R2023a)
+- ✅ MATLAB R2021b or higher (this guide has been developed with MATLAB R2025a)
 - ✅ Mathworks DSP System Toolbox
 - ✅ Mathworks Communication System Toolbox
 - ✅ Mathworks Signal Processing Toolbox  
