@@ -59,7 +59,23 @@ http://www.mathworks.com/help/supportpkg/rtlsdrradio/ug/support-package-hardware
 
 ## 🧪 Paso 4: Verify Hardware and Software Setup
 
- In **Command Window** in MATLAB, execute:
+1. In **Command Window** in MATLAB, execute:
 
-```matlab
-sdrinfo
+    ```matlab
+    >>sdrinfo
+    ```
+    You should get something like this:
+
+   ![First Check](./images/step4_firstCheck.png)
+
+2. In **Command Window** in MATLAB, execute:
+
+   ```matlab
+   >> slLibraryBrowser
+   ```
+   The Simulink Library Browser will open and in the left tree inspector you should find the **Communication Toolbox Support Package for RTL-SDR Radio**.
+
+   ![Second Check](./images/step4_secondCheck.png)
+    
+## 👏👏 **CONGRATULATIONS** You have your RTL-SDR Hardware and Software ready for run 
+
