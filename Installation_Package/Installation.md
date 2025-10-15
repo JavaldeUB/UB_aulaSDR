@@ -39,7 +39,7 @@ http://www.mathworks.com/help/supportpkg/rtlsdrradio/ug/support-package-hardware
 
 1. In the emerging window, in the searching tool (up-right box) write down **"RTL-SDR"**.  
 2. Selecciona **Communication Toolbox Support Package for RTL-SDR Radio**.  
-3. Click **Install** in the following Window.
+3. Click **Install** in the poping-up window (up-right corner).
 
 ![Search for RTL-SDR](./images/step2_search.png)
 
@@ -48,12 +48,18 @@ http://www.mathworks.com/help/supportpkg/rtlsdrradio/ug/support-package-hardware
 ## 💾 Step 3: Configuring the hardware
 
 1. Accept the Mathworks Auxiliary Software Licencse Agreement.
-2. After installation the software will get you
+2. Click Install in the third-party software licence window.
+3. After installation the software will ask you to setup your hardware.
+4. Follow the instructions of the setup Wizerd.
+5. Test the connection, you should get a window with green checks.
+
+![Hardware setup done](./images/step3_allok.png)
+
 ---
 
-## 🧪 Paso 3: Verificar la instalación
+## 🧪 Paso 4: Verify Hardware and Software Setup
 
-En la ventana de **Command Window** de MATLAB, ejecuta:
+ In **Command Window** in MATLAB, execute:
 
 ```matlab
 sdrinfo
