@@ -62,7 +62,7 @@ http://www.mathworks.com/help/supportpkg/rtlsdrradio/ug/support-package-hardware
 1. In **Command Window** in MATLAB, execute:
 
     ```matlab
-    >>sdrinfo
+    >> sdrinfo
     ```
     You should get something like this:
 
