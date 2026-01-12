@@ -50,8 +50,18 @@ http://www.mathworks.com/help/supportpkg/rtlsdrradio/ug/support-package-hardware
 1. Accept the Mathworks Auxiliary Software Licencse Agreement.
 2. Click Install in the third-party software licence window.
 3. After installation the software will ask you to setup your hardware.
-4. Follow the instructions of the setup Wizerd.
-5. Test the connection, you should get a window with green checks.
+4. Click next until you get the following windows.
+
+![Hardware Driver Installation](./images/step3_zadigConfig.png)
+   
+5. Insert the NESDR Mini 2+ in any USB and locate it in the list of devices (find RTL2838UHIDIR (Composite Parent)).
+6. Make sure you see WinUSB in the right box close to the orange arrow.
+7. Click Replace.
+   
+![Hardware Device and Driver Replacement](./images/step3_driverSel.png)
+
+9. Tick the box saying **I confirm that I selected the correct radio in the Zadig software and click next in the following windows.
+10. Test the connection, you should get a window with green checks.
 
 ![Hardware setup done](./images/step3_allok.png)
 
